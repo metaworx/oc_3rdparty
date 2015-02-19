@@ -10,4 +10,5 @@ return array(
     $vendorDir . '/ircmaxell/password-compat/lib/password.php',
     $vendorDir . '/phpseclib/phpseclib/phpseclib/Crypt/Random.php',
     $vendorDir . '/nikic/php-parser/lib/bootstrap.php',
+    $vendorDir . '/swiftmailer/swiftmailer/lib/swift_required.php',
 );
